@@ -44,7 +44,7 @@ All versions are on the [Releases](https://github.com/Zh0du/clipstack/releases) 
 - Move with `↑` `↓` and press `↩` to paste, or **click** an item.
 - `⌘1`…`⌘9` paste one of the first 9 items directly.
 - `⌘⌫` deletes the selected item, `esc` closes the panel.
-- 🌍 Available in **English** (default) and **Español**. Change it from the menu → *Language*. [Help translate it into your language!](#help-translate-clipstack)
+- 🌍 Available in **English** (default), **Español** and **हिन्दी** (Hindi). Change it from the menu → *Language*. [Help translate it into your language!](#help-translate-clipstack)
 - History survives restarts.
 - Skips passwords copied from password managers (1Password, Bitwarden, etc.).
 - Lives in the menu bar, with no Dock icon.
@@ -94,8 +94,8 @@ git push origin v1.0.0
 
 ## Help translate ClipStack
 
-ClipStack speaks English and Spanish today, and I'd love to bring it to more people. **You can help!**
-Translations are especially welcome for 简体中文 (Chinese), हिन्दी (Hindi), Português, Français, Deutsch and 日本語,
+ClipStack speaks English, Spanish and Hindi today, and I'd love to bring it to more people. **You can help!**
+Translations are especially welcome for 简体中文 (Chinese), Português, Français, Deutsch and 日本語,
 but any language is great. 👉 **[See the open translation issues](https://github.com/Zh0du/clipstack/issues?q=is%3Aissue+is%3Aopen+label%3Atranslation)** and comment on the one you'd like to take.
 
 1. Fork the repo.

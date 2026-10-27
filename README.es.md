@@ -44,7 +44,7 @@ Todas las versiones están en la página de [Releases](https://github.com/Zh0du/
 - Muévete con `↑` `↓` y pulsa `↩` para pegar, o haz **clic** en un elemento.
 - `⌘1`…`⌘9` pegan directamente uno de los primeros 9 elementos.
 - `⌘⌫` borra el elemento seleccionado, `esc` cierra el panel.
-- 🌍 Disponible en **inglés** (por defecto) y **español**. Cámbialo desde el menú → *Idioma*. [¡Ayuda a traducirlo a tu idioma!](#ayuda-a-traducir-clipstack)
+- 🌍 Disponible en **inglés** (por defecto), **español** y **हिन्दी** (hindi). Cámbialo desde el menú → *Idioma*. [¡Ayuda a traducirlo a tu idioma!](#ayuda-a-traducir-clipstack)
 - El historial se mantiene al reiniciar el Mac.
 - Ignora las contraseñas copiadas desde gestores (1Password, Bitwarden, etc.).
 - Vive en la barra de menús, sin icono en el Dock.
@@ -94,8 +94,8 @@ git push origin v1.0.0
 
 ## Ayuda a traducir ClipStack
 
-Hoy ClipStack está en inglés y español, y me encantaría llevarlo a más personas. **¡Puedes ayudar!**
-Son especialmente bienvenidas las traducciones a 简体中文 (chino), हिन्दी (hindi), português, français, deutsch y 日本語,
+Hoy ClipStack está en inglés, español e hindi, y me encantaría llevarlo a más personas. **¡Puedes ayudar!**
+Son especialmente bienvenidas las traducciones a 简体中文 (chino), português, français, deutsch y 日本語,
 pero cualquier idioma suma. 👉 **[Mira los issues de traducción abiertos](https://github.com/Zh0du/clipstack/issues?q=is%3Aissue+is%3Aopen+label%3Atranslation)** y comenta en el que quieras hacer.
 
 1. Haz un fork del repo.
