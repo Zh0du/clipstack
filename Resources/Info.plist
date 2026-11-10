@@ -9,6 +9,7 @@
         <string>en</string>
         <string>es</string>
         <string>hi</string>
+        <string>ko</string>
     </array>
     <key>CFBundleIconFile</key>
     <string>AppIcon</string>
